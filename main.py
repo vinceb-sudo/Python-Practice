@@ -20,7 +20,7 @@ else:
 print ("")
 print ("")
 user_answer = input("Question 3: are black holes real?: ")
-if user_answer == "yes" or user_answer == "Yes" or user_answer == "y" or user_answer == "Y" or user_answer == "yeah" or user_answer == "Yeah" or user_answer == "yep" or user_answer == "Yep" or user_answer == "yup" or user_answer == "Yup" or user_answer == "true" or user_answer == "True" or user_answer == "t" or user_answer == "T" or user_answer == "correct" or user_answer == "Correct":
+if user_answer == "yes" or user_answer == "Yes" or user_answer == "y" or user_answer == "Y" or user_answer == "yeah" or user_answer == "Yeah" or user_answer == "yea" or user_answer == "Yea" or user_answer == "yep" or user_answer == "Yep" or user_answer == "yup" or user_answer == "Yup" or user_answer == "true" or user_answer == "True" or user_answer == "t" or user_answer == "T" or user_answer == "correct" or user_answer == "Correct":
     print ("")
     print ("Correct! Black holes are real.")
 else: 
