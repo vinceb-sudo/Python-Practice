@@ -1,4 +1,6 @@
+print ("")
 print ("Hello and welcome to my quiz about black holes! I hope you enjoy it and learn something new. Let's get started!")
+print ("")
 start_code = input("Press enter or return to continue.")
 print ("")
 user_answer = input("Question 1: what color is a black hole?: ")
